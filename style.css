@@ -1,0 +1,77 @@
+h1{
+    color: blue;
+    font-family: monospace;
+    
+}
+body{
+    text-align: center;
+    background-color: rgb(237, 244, 245);
+    border-radius: 0rem;
+}
+button{
+    color: darkslateblue;
+    font-family: monospace;
+    
+}
+div.todo-container{
+    color: rgba(7, 7, 228, 0.925);
+    text-align: center;
+    border-radius: 0rem;
+    margin: 1rem;
+    
+}
+
+div.aluno{
+    text-align: center;
+    margin-right: 5pc;
+}
+
+section{
+    color: rgb(15, 15, 160);
+    border-radius: 1rem;
+    
+    
+}
+
+p{
+    
+    color: blue;
+    
+}
+button.clear-Btn{
+    border-radius: 0rem;
+ color: red;
+ cursor: pointer;
+ 
+}
+
+button.calc-Btn{
+    border-radius: 0rem;
+    color: black;
+    cursor: pointer;
+    
+}
+
+
+input.txtaluno{
+    border-radius: 0rem;
+    text-align: center;
+
+    
+}
+
+input.matematica{
+    border-radius: 0rem;
+    text-align: center;
+    
+    
+}
+
+
+
+input.portugues{
+    border-radius: 0rem;
+    text-align: center;
+}
+
+
